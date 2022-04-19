@@ -1,79 +1,48 @@
-# Analog-Clock
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+Minopy's clock
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊
 
-Multi-functional high-precision original maze creation software
+Thank you for downloading Minopy's clock.
+An analog clock on your desktop with flexible design customization.
 
-Maze Customizer "Minopy's Maze Customizer"
+〇 How to start
+-Extract the ZIP file
+-Start Minopy_Clock2.exe in the extracted folder.
 
--------------------------------------------------- -------------------------------------------------- -------------------------------------
+〇Customization method
+-Right-click on the clock face to display the context menu.
+Click "Settings" in it.
+-You can freely change the color of the clock face, the color of the outer and inner frames of the clock, and the format of the memory.
 
-[Introduction]
+〇 How to finish
+-Right-click on the clock face to display the context menu.
+-Click the Finish button. 「終了」
+* The next time you start up, the clock design at the end will be loaded.
 
-This "Minopy's Maze Customizer" easily creates various mazes. and you can play with them, and output them to an image file.
+〇 Load preset
+-Right-click on the clock face to display the context menu.
+-Click "Load preset".　「プリセットを読み込む」
+-Select the preset you want to load.
 
-Not only the vertical and horizontal size of the maze, but also the wall thickness, rounded corners, simplicity can be customized.
-With excellent setting flexibility, you can quickly create any maze you want.
+〇 Save the preset
+If you want to restore the current clock design in the future, save it in the preset.
 
-Also, since all of these mazes are generated based on random signals, it can be said that there is almost no chance that the same maze will be created.
-Therefore, you can easily create your only-one maze.
-If you don't like the created maze, you can edit it yourself.
+-Right-click on the clock face to display the context menu.
+-Click "Save as preset".　「プリセットとして保存する」
+-Save as a name.
+* The default extension of the preset file is ".prs".
 
-At the same time, along with the maze automatic creation algorithm, we have also succeeded in developing an automatic maze solution algorithm.
-You can instantly guide and display the path of the answer to the maze.
+〇 Display the clock in the foreground
+-Right-click on the clock face to display the context menu.
+・ Check "Display in front".　「最前面に表示」
 
-Also, you can use your own maze that you created as an action game. you can play with it and save it as a file or image, so it can also be used outside this application.
+〇Adjust the size of the clock
+-Place the mouse cursor inside the clock face and wheel.
+Wheel up to make it bigger, wheel down to make it smaller.
 
--Operating environment Windows XP or later
-   * BGM isn't be played during the game when you are not connected to the Internet.
-
--------------------------------------------------- -------------------------------------------------- -----------------------------
-
-【install】
-
-All you have to do is unzip and put all the files in a suitable folder, and start "Maze's Maze Customizer.exe"
-
-It does not write to any Windows system folders or registries during use.
-
-・ How to extract a zipped file.
-→ http://www.frontier-direct.jp/faq/05/003973.htm
-・ How to make a shortcut
-→ http://www.fmworld.net/cs/azbyclub/qanavi/jsp/qacontents.jsp?PID=1808-2710
-
-However, save the settings, operating conditions, etc. at the next startup
-The Settings.ini file to reproduce,
-Create it in the same folder as his only Pee's Maze Customizer.exe that started.
-(It will be created automatically at the end. It does not have to be at the beginning)
-
-Also, since it is not officially approved as a Windows application,
-A warning may be displayed at the first startup.
-Even in that case, you can proceed.
-
-【Uninstall】
-
-  All you have to do is delete all the files in each folder.
-
--------------------------------------------------- -------------------------------------------------- --------------------------
-
-【Method of operation】
-
-Although it is an operation method, it is omitted because there is no such difficult operation.
-
-However, I will only explain the dedicated file and the image file.
-
-・Maze file (* .mzd)
-It is a maze file that can be used only in this "Maze Maze Customizer".
-".Mzd" is added as an extension.
-This file can be saved by "Save As" and "Save".
-By loading this saved file, you can play with the maze. 
-
-・ Image files (* .jpg, * .png, * .bmp)
-The currently displayed file can be used externally
-Save as an image file.
-If you save it as an image once, the maze cannot be read from that image.
-Therefore, if you want to play again or see the answer, make sure to create a maze file (* .mzd) in advance.
-
--------------------------------------------------- -------------------------------------------------- ---------------------------
-
- 【cooperation】
-
-We had the cooperation of Maoudamashii as a BGM material for the action.
-http://maoudamashii.jokersounds.com/
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+Operating environment: Windows 7 or later Confirmed normal startup
+Version: 1.0.0.0
+Created by: Minoru Harada (Minoru Harada) Sophia University Department of Functional Creation Science and Engineering 2nd year (as of 2020)
+Copyright © 2020 M.Harada All Rights Reserved
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊
